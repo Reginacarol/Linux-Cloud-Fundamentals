@@ -3,7 +3,7 @@
 Task:
 
 1. Default Azure disks
-2. Azure data disks
+2. Azure dat a disks
 3. VM disk types
 4. Launch Azure Cloud Shell
 5. Create and attach disks
@@ -18,3 +18,5 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-di
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+I did create and attach my disks

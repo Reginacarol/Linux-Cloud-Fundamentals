@@ -14,3 +14,11 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-key
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+
+
+I created an SSH key pair
+
+
+
+

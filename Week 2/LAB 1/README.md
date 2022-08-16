@@ -17,3 +17,7 @@ https://aws.amazon.com/getting-started/launch-a-virtual-machine-B-0/
 Quickstart for AWS CloudShell
 
 https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.html
+
+
+
+I did launch my aws cloud shell

@@ -7,6 +7,7 @@
 4. Investigate the service status via command line
 5. Stop the service
 
+I did install the my Apache Web Server
 
 Challenge: Create a boostrapping script that will install and start this service on new EC2 VMs
 

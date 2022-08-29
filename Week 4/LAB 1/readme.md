@@ -9,6 +9,7 @@ Create a VPC with the following property using the CLI:
 3.  Two subnets (one private with 10.0.1.0/24 and one public  10.0.0.0/24)
 4.   Attach an internet gateway
 
+I did create my VPC
 
 Grading tip:  Screenshot each step and upload with your step by step answer
 

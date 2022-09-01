@@ -7,6 +7,9 @@ Tasks:
 3. Secure the database server
 4. Install phpMyAdmin
 
+I did prepare my LAMP server
+
+
 
 Guide: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html
 

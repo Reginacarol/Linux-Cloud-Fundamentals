@@ -10,6 +10,8 @@ Launch an instance with the following property
 5. Tag:  Key: Name     Value: ProdCafeServer
 6. Security Group:  Create a  one named serverSG, with TCP port 22 and port 80 open to anywhere
 
+I did instance OS -Amazon linux
+
 
 
 Hint: Associate an elastic ip with this instance, you will need it in later lab.

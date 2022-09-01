@@ -15,7 +15,7 @@ wget https://wordpress.org/latest.tar.gz
 6. Create an AMI of this running instance.
 7. Perform clean up operations.
 
-
+I did create my data user and database for wordpress installation
 
 
 
